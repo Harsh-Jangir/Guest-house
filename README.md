@@ -15,9 +15,18 @@ The goal was to replicate the layout and design of the existing King Sukh Guest 
 
 ##  Key Features
 
-- ✅ Mobile-friendly & responsive layout  
-- ✅ Scroll animations using AOS  
-- ✅ Clean, semantic HTML  
-- ✅ Structured sections: Hero, About, Rooms, Gallery, Contact  
-- ✅ Custom navigation bar and footer  
-- ✅ Contact form (UI only)
+-  Mobile-friendly & responsive layout  
+-  Scroll animations using AOS  
+-  Clean, semantic HTML  
+-  Structured sections: Hero, About, Rooms, Gallery, Contact  
+-  Custom navigation bar and footer  
+-  Contact form (UI only)
+
+##  Preview(screenshots)
+
+- Homepage (Assets/preview1.jpg)
+- About (Assets/preview2.jpg)
+- Rooms (Assets/preview3.jpg)
+- Contacts (Assets/preview4.jpg)
+- Footer (Assets/preview5.jpg)
+  
